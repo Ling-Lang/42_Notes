@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Born2BeRoot.md",
+                "file": "Libft.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Born2BeRoot.md",
+                "file": "Libft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Born2BeRoot.md",
+                "file": "Libft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Born2BeRoot.md"
+                "file": "Libft.md"
               }
             }
           }
@@ -151,6 +151,7 @@
   },
   "active": "e0a8ed0bdbe8bb4f",
   "lastOpenFiles": [
+    "Born2BeRoot.md",
     "Libft.md"
   ]
 }
