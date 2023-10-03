@@ -4,35 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "06cd40237c6bc4a2",
+        "id": "6d97799a494d225e",
         "type": "tabs",
         "children": [
           {
-            "id": "b2116cc0d6ee0dde",
+            "id": "4d37a9ef48dd0529",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Libft.md",
+                "file": "Exams/Exam 02/Checklist 02.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e0a8ed0bdbe8bb4f",
+            "id": "376350b4d38079b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Libft.md",
+                "file": "Exams/Exam 02/Checklist 02.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b8048c02bdc366a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exams/Exam 02/Level 02/print_bits.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ecb0c32a4635f35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exams/Exam 02/Checklist 02.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8deaba81861b8cbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exams/Exam 02/Checklist 02.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -77,6 +113,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "f795ff9ecde3051e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -98,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Libft.md",
+                "file": "Exams/Exam 02/Checklist 02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,9 +159,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Libft.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "Exams/Exam 02/Checklist 02.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -138,20 +182,49 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Libft.md"
+                "file": "Exams/Exam 02/Checklist 02.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "e0a8ed0bdbe8bb4f",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8deaba81861b8cbc",
   "lastOpenFiles": [
-    "Born2BeRoot.md",
-    "Libft.md"
+    "Exams/Exam 02/Level 04/ft_split.md",
+    "Exams/Exam 02/Checklist 02.md",
+    "Exams/Exam 02/Level 03/lcm.md",
+    "Exams/Exam 02/Level 02/print_bits.md",
+    "Exams/Exam 02/Level 03/ft_list_size.md",
+    "Projects/Born2BeRoot.md",
+    "Projects/Libft.md",
+    "README.md",
+    "Exams/Exam 02/Level 04/rev_wstr.md",
+    "Exams/Exam 02/Level 03/add_prime_sum.md",
+    "Exams",
+    "Projects",
+    "Exams/Exam 02/Level 02/swap_bits.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Exams/Exam 02/Level 03",
+    "Exams/Exam 02/Level 02",
+    "Exams/Exam 02/Level 01",
+    "Exams/Exam 02/Level 04",
+    "Exam 02/Untitled.md",
+    "Exams/Exam 02"
   ]
 }
