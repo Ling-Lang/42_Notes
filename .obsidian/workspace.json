@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4d37a9ef48dd0529",
+            "id": "c1577c9730f4dd4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,7 +20,19 @@
             }
           },
           {
-            "id": "376350b4d38079b5",
+            "id": "3b70e96d7ee1f1b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exams/Exam 02/Level 02/alpha_mirror.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56138e0e879e120a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,31 +44,55 @@
             }
           },
           {
-            "id": "1b8048c02bdc366a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exams/Exam 02/Level 02/print_bits.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ecb0c32a4635f35",
+            "id": "7280fe9f725e1508",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Exams/Exam 02/Checklist 02.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8deaba81861b8cbc",
+            "id": "3bf3882dbcbb15a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exams/Exam 02/Checklist 02.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "65e6bae91243fa23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exams/Exam 02/Level 04/sort_list.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "24a6bd766d544448",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exams/Exam 02/Checklist 02.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "74e4fa772383d2c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -68,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -191,7 +227,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,18 +240,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8deaba81861b8cbc",
+  "active": "74e4fa772383d2c1",
   "lastOpenFiles": [
-    "Exams/Exam 02/Level 04/ft_split.md",
+    "Exams/Exam 02/Level 04/sort_list.md",
+    "Exams/Exam 02/Level 04/rostring.md",
     "Exams/Exam 02/Checklist 02.md",
+    "Exams/Exam 02/Level 02/ft_strspn.md",
+    "Exams/Exam 02/Level 03/expand_str.md",
+    "Exams/Exam 02/Level 02/ft_strcmp.md",
+    "Exams/Exam 02/Level 03/ft_atoi_base.md",
+    "Exams/Exam 02/Level 03/add_prime_sum.md",
+    "Exams/Exam 02/Level 03/ft_list_size.md",
+    "Exams/Exam 02/Level 03/ft_range.md",
+    "Exams/Exam 02/Level 02/alpha_mirror.md",
+    "Exams/Exam 02/Level 04/flood_fill.md",
+    "Exams/Exam 02/Level 04/ft_split.md",
     "Exams/Exam 02/Level 03/lcm.md",
     "Exams/Exam 02/Level 02/print_bits.md",
-    "Exams/Exam 02/Level 03/ft_list_size.md",
     "Projects/Born2BeRoot.md",
     "Projects/Libft.md",
     "README.md",
     "Exams/Exam 02/Level 04/rev_wstr.md",
-    "Exams/Exam 02/Level 03/add_prime_sum.md",
     "Exams",
     "Projects",
     "Exams/Exam 02/Level 02/swap_bits.md",
