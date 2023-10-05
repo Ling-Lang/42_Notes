@@ -8,91 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c1577c9730f4dd4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exams/Exam 02/Checklist 02.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3b70e96d7ee1f1b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exams/Exam 02/Level 02/alpha_mirror.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56138e0e879e120a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exams/Exam 02/Checklist 02.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7280fe9f725e1508",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exams/Exam 02/Checklist 02.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3bf3882dbcbb15a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exams/Exam 02/Checklist 02.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "65e6bae91243fa23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exams/Exam 02/Level 04/sort_list.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "24a6bd766d544448",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exams/Exam 02/Checklist 02.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "74e4fa772383d2c1",
+            "id": "f6f29c000461e0aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -103,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,11 +155,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "74e4fa772383d2c1",
+  "active": "f6f29c000461e0aa",
   "lastOpenFiles": [
-    "Exams/Exam 02/Level 04/sort_list.md",
-    "Exams/Exam 02/Level 04/rostring.md",
+    "Projects/Philosopher.md",
+    "Projects/Libft.md",
     "Exams/Exam 02/Checklist 02.md",
+    "Exams/Exam 02/Level 04/sort_list.md",
+    "Exams/Exam 02/Level 02/alpha_mirror.md",
+    "Projects/Born2BeRoot.md",
+    "Exams/Exam 02/Level 04/rostring.md",
     "Exams/Exam 02/Level 02/ft_strspn.md",
     "Exams/Exam 02/Level 03/expand_str.md",
     "Exams/Exam 02/Level 02/ft_strcmp.md",
@@ -252,13 +171,10 @@
     "Exams/Exam 02/Level 03/add_prime_sum.md",
     "Exams/Exam 02/Level 03/ft_list_size.md",
     "Exams/Exam 02/Level 03/ft_range.md",
-    "Exams/Exam 02/Level 02/alpha_mirror.md",
     "Exams/Exam 02/Level 04/flood_fill.md",
     "Exams/Exam 02/Level 04/ft_split.md",
     "Exams/Exam 02/Level 03/lcm.md",
     "Exams/Exam 02/Level 02/print_bits.md",
-    "Projects/Born2BeRoot.md",
-    "Projects/Libft.md",
     "README.md",
     "Exams/Exam 02/Level 04/rev_wstr.md",
     "Exams",
