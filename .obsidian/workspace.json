@@ -23,12 +23,64 @@
             "id": "3ed0c83010299b39",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Exams/Exam 02/Level 04/rostring.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ef73346365ea419",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exams/Exam 02/Checklist 02.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4a8f4571894f103",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exams/Exam 02/Checklist 02.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "73e5e18842cf2947",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exams/Exam 02/Checklist 02.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "658e7222b0930f07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exams/Exam 02/Checklist 02.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -102,6 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Exams/Exam 02/Checklist 02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Exams/Exam 02/Checklist 02.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +193,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Exams/Exam 02/Checklist 02.md"
+              }
             }
           }
         ],
@@ -160,13 +216,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ed0c83010299b39",
+  "active": "e9f3e948daf0485a",
   "lastOpenFiles": [
-    "repeat_alpha.md",
-    "Projects/Philosopher.md",
+    "Exams/Exam 02/Level 04/fprime.md",
+    "Exams/Exam 02/Level 04/flood_fill.md",
     "Exams/Exam 02/Checklist 02.md",
-    "Exams/Exam 02/Level 04/rostring.md",
     "Exams/Exam 02/Level 04/sort_list.md",
+    "Exams/Exam 02/Level 04/ft_split.md",
+    "Exams/Exam 02/Level 03/pgcd.md",
+    "Exams/Exam 02/Level 02/union.md",
+    "Exams/Exam 02/Level 03/epur_str.md",
+    "Exams/Exam 02/Level 04/rostring.md",
+    "Exams/Exam 02/Level 02/repeat_alpha.md",
+    "Projects/Philosopher.md",
     "Exams/Exam 02/Level 02/alpha_mirror.md",
     "Exams/Exam 02/Level 02/ft_strspn.md",
     "Exams/Exam 02/Level 03/expand_str.md",
@@ -175,8 +237,6 @@
     "Exams/Exam 02/Level 03/add_prime_sum.md",
     "Exams/Exam 02/Level 03/ft_list_size.md",
     "Exams/Exam 02/Level 03/ft_range.md",
-    "Exams/Exam 02/Level 04/flood_fill.md",
-    "Exams/Exam 02/Level 04/ft_split.md",
     "Exams/Exam 02/Level 03/lcm.md",
     "Exams/Exam 02/Level 02/print_bits.md",
     "Projects/Born2BeRoot.md",
@@ -192,7 +252,6 @@
     "Exams/Exam 02/Level 02",
     "Exams/Exam 02/Level 01",
     "Exams/Exam 02/Level 04",
-    "Exam 02/Untitled.md",
     "Exams/Exam 02"
   ]
 }

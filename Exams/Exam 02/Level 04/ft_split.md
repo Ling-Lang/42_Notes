@@ -1,93 +1,111 @@
 ```c
-#include <stdlib.h>
-
 #include <stdio.h>
+
+#include <stdlib.h>
 
   
 
-char *ft_strncpy(char *s1, char *s2, int n)
+char *ft_strncpy(char *src, char *dest, int len)
 
 {
 
-    int i = -1;
+int i = 0;
 
-  
+while(i < len && src[i] != '\0')
 
-    while (++i < n && s2[i])
+{
 
-        s1[i] = s2[i];
+dest[i] = src[i];
 
-    s1[i] = '\0';
-
-    return (s1);
+i++;
 
 }
 
-  
+dest[i] = '\0';
 
-char    **ft_split(char *str)
+return(dest);
+
+}
+
+int ft_word_count(char *str)
 
 {
 
-    int i = 0;
+int i = 0;
 
-    int j = 0;
+int wc = 0;
 
-    int k = 0;
+while(str[i])
 
-    int wc = 0;
+{
 
-    while (str[i])
+while(str[i] && (str[i] == ' ' || str[i] == '\t' || str[i] == '\n'))
 
-    {
+i++;
 
-        while (str[i] && (str[i] == ' ' || str[i] == '\t' || str[i] == '\n'))
+if(str[i])
 
-            i++;
+wc++;
 
-        if (str[i])
+while(str[i] && str[i] != ' ' && str[i] != '\t' && str[i] != '\n')
 
-            wc++;
+i++;
 
-        while (str[i] && (str[i] != ' ' && str[i] != '\t' && str[i] != '\n'))
+}
 
-            i++;
+return wc;
 
-    }
+}
 
-    char **out = (char **)malloc(sizeof(char *) * (wc + 1));
+char **ft_split(char *str)
 
-    i = 0;
+{
 
-    while (str[i])
+int i =0;
 
-    {
+int j = 0;
 
-        while (str[i] && (str[i] == ' ' || str[i] == '\t' || str[i] == '\n'))
+int k = 0;
 
-            i++;
+int word_count = ft_word_count(str);
 
-        j = i;
+// Allocate by the ammount of words plus 1
 
-        while (str[i] && (str[i] != ' ' && str[i] != '\t' && str[i] != '\n'))
+char **res = (char **)malloc(sizeof(char *) * (word_count + 1));
 
-            i++;
+while(str[i])
 
-        if (i > j)
+{
 
-        {
+// jump to start of the word
 
-            out[k] = (char *)malloc(sizeof(char) * ((i - j) + 1));
+while(str[i] != '\0' &&(str[i] == ' ' || str[i] == '\t' || str[i] == '\n'))
 
-            ft_strncpy(out[k++], &str[j], i - j);
+i++;
 
-        }
+j = i;
 
-    }
+while(str[i] != '\0' && str[i] != ' ' && str[i] != '\t' && str[i] != '\n')
 
-    out[k] = NULL;
+i++;
 
-    return (out);
+if(i > j)
+
+{
+
+res[k] = (char *)malloc(sizeof(char) * ((i - j) + 1));
+
+ft_strncpy(&str[j], res[k], i - j);
+
+k++;
+
+}
+
+}
+
+res[k] = NULL;
+
+return res;
 
 }
 ```

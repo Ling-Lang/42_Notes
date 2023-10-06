@@ -20,7 +20,7 @@
 - [x] camel_to_snake
 - [x] do_op
 - [ ] ft_atoi
-- [ ] [[ft_strcmp]]
+- [x] [[ft_strcmp]]
 - [ ] ft_strpbrk
 - [ ] ft_strrev
 - [ ] [[ft_strspn]]
@@ -32,13 +32,13 @@
 - [ ] reverse_bits
 - [ ] snake_to_camel
 - [x] [[swap_bits]]
-- [ ] union
+- [x] [[union]]
 - [ ] wdmatch
 
 ### Level 03
 ---
 - [x] [[add_prime_sum]]
-- [ ] epur_str
+- [ ] [[epur_str]]
 - [ ] [[expand_str]]
 - [ ] [[ft_atoi_base]]
 - [ ] [[ft_list_size]]
@@ -47,16 +47,16 @@
 - [ ] hidenp
 - [ ] [[lcm]]
 - [ ] paramsum
-- [ ] pgcd
+- [x] [[pgcd]]
 - [ ] print_hex
-- [ ] rstr_capitalizer
+- [x] rstr_capitalizer
 - [ ] str_capitalizer
 - [ ] tab_mult
 
 ### Level 04
 ---
 - [x] [[flood_fill]]
-- [ ] fprime
+- [ ] [[fprime]]
 - [ ] ft_itoa
 - [ ] ft_list_foreach
 - [ ] [[ft_split]]

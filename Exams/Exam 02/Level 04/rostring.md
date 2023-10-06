@@ -49,7 +49,7 @@ int main(int argc, char **argv)
 
                 i++;
 
-            if (argv[1][i] == ' ' || argv[1][i] == '\t')
+            if (argv[1][i+ 1] == '\n' && argv[1][i] != ' ')
 
                 flag = 1;
 
