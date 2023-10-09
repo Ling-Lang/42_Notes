@@ -30,7 +30,7 @@
 - [x] max
 - [x] [[print_bits]]
 - [ ] reverse_bits
-- [ ] snake_to_camel
+- [x] snake_to_camel
 - [x] [[swap_bits]]
 - [x] [[union]]
 - [ ] wdmatch
@@ -48,9 +48,9 @@
 - [ ] [[lcm]]
 - [x] paramsum
 - [x] [[pgcd]]
-- [ ] print_hex
+- [x] print_hex 
 - [x] rstr_capitalizer
-- [ ] str_capitalizer
+- [ ] str_capitalizer (The same as rstr_capitalizer) 
 - [x] [[tab_mult]]
 
 ### Level 04
@@ -62,5 +62,5 @@
 - [ ] [[ft_split]]
 - [ ] [[rev_wstr]]
 - [ ] [[rostring]]
-- [ ] sort_int_tab
-- [ ] [[sort_list]]
+- [ ] sort_int_tab (Probably Easy) 
+- [ ] [[sort_list]] (The same but with list) 
