@@ -7,7 +7,7 @@
 - [x] ft_strcpy
 - [x] ft_strlen
 - [x] ft_swap
-- [x] repeat_alpha
+- [x] [[repeat_alpha]]
 - [x] rev_print
 - [x] rot_13
 - [x] rot_one
@@ -16,7 +16,7 @@
 
 ### Level 02
 ---
-- [ ] alpha_mirror
+- [ ] [[alpha_mirror]]
 - [x] camel_to_snake
 - [x] do_op
 - [ ] ft_atoi
@@ -24,8 +24,8 @@
 - [ ] ft_strpbrk
 - [ ] ft_strrev
 - [ ] [[ft_strspn]]
-- [x] inter
-- [ ] is_power_of_2
+- [ ] [[inter]]
+- [ ] [[is_power_of_2]]
 - [x] last_word
 - [x] max
 - [x] [[print_bits]]
@@ -43,21 +43,21 @@
 - [ ] [[ft_atoi_base]]
 - [ ] [[ft_list_size]]
 - [ ] [[ft_range]]
-- [ ] ft_rrange
+- [ ] [[ft_rrange]]
 - [ ] hidenp
 - [ ] [[lcm]]
-- [ ] paramsum
+- [x] paramsum
 - [x] [[pgcd]]
 - [ ] print_hex
 - [x] rstr_capitalizer
 - [ ] str_capitalizer
-- [ ] tab_mult
+- [x] [[tab_mult]]
 
 ### Level 04
 ---
 - [x] [[flood_fill]]
-- [ ] [[fprime]]
-- [ ] ft_itoa
+- [x] [[fprime]]
+- [ ] [[ft_itoa]]
 - [ ] ft_list_foreach
 - [ ] [[ft_split]]
 - [ ] [[rev_wstr]]
