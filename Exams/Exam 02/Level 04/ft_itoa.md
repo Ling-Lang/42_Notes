@@ -31,6 +31,7 @@ len++;
 
 char *res = (char *)malloc(sizeof(char) * len + 1);
 
+
 if(res == NULL)
 
 return NULL;
