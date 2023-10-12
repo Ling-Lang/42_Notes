@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Philosopher.md",
+                "file": "Projects/Born2BeRoot.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Philosopher.md",
+                "file": "Projects/Born2BeRoot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Philosopher.md",
+                "file": "Projects/Born2BeRoot.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Philosopher.md"
+                "file": "Projects/Born2BeRoot.md"
               }
             }
           }
@@ -192,8 +192,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0575e0095891fa14",
+  "active": "e9f3e948daf0485a",
   "lastOpenFiles": [
+    "Exams/Exam 03",
+    "Projects/Philosopher.md",
     "Exams/Exam 02/Level 04/ft_split.md",
     "Exams/Exam 02/Level 02/alpha_mirror.md",
     "Exams/Exam 02/Level 03/ft_rrange.md",
@@ -215,11 +217,9 @@
     "Exams/Exam 02/Level 03/tab_mult.md",
     "Exams/Exam 02/Level 04/fprime.md",
     "Exams/Exam 02/Level 02/union.md",
-    "Projects/Philosopher.md",
     "Exams/Exam 02/Level 04/flood_fill.md",
     "Exams/Exam 02/Level 03/pgcd.md",
     "Exams/Exam 02/Level 02/repeat_alpha.md",
-    "Exams/Exam 02/Level 03/expand_str.md",
     "Exams",
     "Projects",
     "Untitled.canvas",
