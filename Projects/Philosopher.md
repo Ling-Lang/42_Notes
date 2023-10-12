@@ -1,54 +1,55 @@
 https://github.com/Ling-Lang/42_philosopher.git
 
-```c
-typedef struct s_philo
+first we validate if everyting is a number and the right ammount of args is there
+then we allocate the threads and the data structure
+then we fill the data
+in there we allocate the death_mutex and set  the start_time value to the current time
+after that we fill for every philo the data like the time to die eat and sleep.
+We check if we have a limited ammount of meals and set the corresponding bool
+we assign every philo its id
+and set the state to thinking for the beginning
 
-{
+then we initiate the mutexes;
+after that we create the thread for the watcher which checks if a philosopher should die and the game should end
 
-size_t num;
+then we create the first half of philo threads and start their routine we split this to prevent deadlocks 
+then the second half
+and then if everything is finished and the sim ends we just join the threads together and destroy the mutexes and free everything.
 
-size_t last_meal;
+### Philo routine
 
-size_t is_eating;
+by default we think
+we check after every iteration if the philos should die eat or sleep
 
-size_t limit;
+#### ft_should_die
 
-size_t lfork;
+we check if data->is_dead is true if yes we return 1 which stops the simulation
+else we continue
 
-size_t rfork;
+#### ft_last_meal
 
-struct s_data *data;
+If we have a limited ammount of meals we check if there are any left on the current iteration and if not we return 1 which stops the simulation else we contiune
 
-} t_philo;
+#### ft_think
+we print thinking
 
-typedef struct s_data
+#### ft_eat
 
-{
+first we lock the first fork which belongs to the philo then we print then if there are more than 1 philos we lock the next fork wich belongs to the philo next to us
+we print again and set the state to eating 
+we lock the mealtime and set the tie of the last eaten meal and unlock the mutex then we print and wait for time to eat ammount of time and unlock the mutexes
+if only 1 philo we let the fork go and wait until he is dead
 
-size_t time_to_eat;
 
-size_t time_to_die;
+## Watcher routine
 
-size_t time_to_sleep;
+we check every 500 useconds and check again 
 
-size_t food;
+#### ft_die
 
-size_t completed;
+we check for every philosopher when their last meal was and compare that to the current time we also asign this to time_of_death if this exceeds the threshold of timetodie we set the is_dead flag in data and print that he dies and then we return 1 which stops the simulation
+else 
+continue
 
-size_t num_of_philo;
-
-t_philo *philo;
-
-pthread_mutex_t prints;
-
-pthread_mutex_t forks;
-
-pthread_mutex_t death;
-
-} t_data;
-```
-
-size_t because I don't know the upper limit of the stuff and it's unsigned
-t_data in philo because we want them to know how many meals are left and stuff?
-
-- `instance` is included in each `philo` struct  to provide shared access to simulation-wide data and resources, facilitating coordinated actions without enabling direct communication among philosophers.
+#### ft_stop
+if there are unlimited meals we continue if not we check for every philo if they have enough meals if not we return 1 which stops the simulation else we contiune

@@ -109,4 +109,3 @@ return res;
 
 }
 ```
-Hefty one
