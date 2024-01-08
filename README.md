@@ -9,4 +9,12 @@ push_swap: https://github.com/Ling-Lang/42_push_swap
 fract_ol: https://github.com/Ling-Lang/42_fract_ol
 [[Philosopher]]: https://github.com/Ling-Lang/42_philosopher
 
-Current Project:  minishell, Exam 03
+still todo
+
+```dataview
+TABLE
+file.ctime as Created
+FROM #todo
+SORT file.ctime DESC
+LIMIT 10
+```

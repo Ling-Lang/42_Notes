@@ -1,4 +1,4 @@
-
+This is the first project to the [[Core curriculum]].
 ### Todo
 
 * ft_itoa

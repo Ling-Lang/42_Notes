@@ -8,115 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "89618336bd14fb81",
+            "id": "a524b132fc5297b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exams/Exam 02/Checklist 02.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a6b831be626deb82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exams/Exam 02/Level 02/is_power_of_2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be5c245b79d0f681",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exams/Exam 02/Level 03/ft_range.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0575e0095891fa14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exams/Exam 02/Level 04/ft_itoa.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d7554e9bfdd08247",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exams/Exam 02/Level 04/ft_split.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e42d339c5b114595",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exams/Exam 03/Level 0/get_next_line.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "252943aadbc0b841",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exams/Exam 02/Level 04/sort_list.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8035c988de911a92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exams/Exam 03/Level 0/get_next_line.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e068ae0c7e08ee8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/CPP/Style Guidelines.md",
+                "file": "Projects/Cub3D.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -145,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -190,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/CPP/Style Guidelines.md",
+                "file": "Projects/Cub3D.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/CPP/Style Guidelines.md",
+                "file": "Projects/Cub3D.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -230,7 +133,19 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/CPP/Style Guidelines.md"
+                "file": "Projects/Cub3D.md"
+              }
+            }
+          },
+          {
+            "id": "a4c95e89458107bc",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -252,22 +167,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5e068ae0c7e08ee8",
+  "active": "a524b132fc5297b5",
   "lastOpenFiles": [
+    "Projects/Cub3D.md",
+    "Resources/cub3d_vertical_intersections.png",
+    "Projects/Born2BeRoot.md",
+    "Projects/Philosopher.md",
+    "Resources/cub3d_horizontal_intersections.png",
+    "Resources",
+    "README.md",
+    "Projects/Core curriculum.md",
+    "Exams/Exam 03/Checklist 03.md",
+    "Exams/Exam 03/Level 0/get_next_line.md",
+    "Projects/CPP/CPP.md",
+    "Projects/Libft.md",
+    "Projects/minishell rework/minishell 2.0.md",
     "Exams/Exam 02/Checklist 02.md",
+    "Exams/Exam 02/Level 04/flood_fill.md",
+    "Exams/Exam 02/Level 04/ft_split.md",
+    "Projects/minishell rework",
     "Projects/CPP/Style Guidelines.md",
     "Projects/CPP",
-    "Exams/Exam 02/Level 04/ft_split.md",
-    "Projects/minishell.md",
-    "Projects/Philosopher.md",
-    "README.md",
     "Exams/Exam 02/Level 04/sort_list.md",
     "Exams/Exam 02/Level 02/ft_strspn.md",
-    "Exams/Exam 03/Checklist 03.md",
     "Exams/Exam 03/Level 0",
-    "Exams/Exam 03/Level 0/get_next_line.md",
-    "Projects/Libft.md",
-    "Projects/Born2BeRoot.md",
     "Exams/Exam 03",
     "Exams/Exam 02/Level 02/alpha_mirror.md",
     "Exams/Exam 02/Level 03/ft_rrange.md",
@@ -278,19 +201,12 @@
     "Exams/Exam 02/Level 04/rostring.md",
     "Exams/Exam 02/Level 02/ft_strcmp.md",
     "Exams/Exam 02/Level 03/ft_atoi_base.md",
-    "Exams/Exam 02/Level 04/rev_wstr.md",
-    "Exams/Exam 02/Level 03/ft_list_size.md",
-    "Exams/Exam 02/Level 02/is_power_of_2.md",
-    "Exams/Exam 02/Level 03/add_prime_sum.md",
-    "Exams/Exam 02/Level 02/swap_bits.md",
     "Exams",
     "Projects",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Exams/Exam 02/Level 03",
     "Exams/Exam 02/Level 02",
-    "Exams/Exam 02/Level 01",
-    "Exams/Exam 02/Level 04",
-    "Exams/Exam 02"
+    "Exams/Exam 02/Level 01"
   ]
 }
